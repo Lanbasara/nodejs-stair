@@ -13,7 +13,7 @@
   "license": "ISC",
   "type": "module",
   "devDependencies": {
-    "@types/node": "^18.11.8",
+    "@types/node": "^18.11.9",
     "@types/nodemon": "^1.19.2",
     "nodemon": "^2.0.20",
     "ts-node": "^10.9.1",
